@@ -2,8 +2,8 @@
 name: Vakantie Veiling
 version: "1.0.0"
 slug: example
-description: Vakantie Veiling
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+description: This is an integration for the Vakantie Veiling website
+url: "https://github.com/SvenVoeten/VakantieVeilingBot"
 arch:
   - armhf
   - armv7
